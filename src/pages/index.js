@@ -12,6 +12,7 @@ const IndexPage = ({data}) => {
     <>
       <Seo title="Home" />
       <main>
+        
         <Hero />
         <Services />
         <Jobs />

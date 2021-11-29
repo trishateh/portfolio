@@ -9,7 +9,9 @@ const Hero = () => {
     <section className="section-center hero-center">
       <article className="hero-info">
         <div>
+        <StaticImage src="../assets/images/photo.png" alt="portfolio" />     
           <div className="underline"></div>
+          <img  />
             <h1>I'm Trisha</h1>
             <h4>Web3 / Blockchain Developer</h4>
             <Link to="/contact" className="btn">
